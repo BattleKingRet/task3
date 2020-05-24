@@ -2,7 +2,6 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-
 from tensorflow.keras.layers import Dense, Conv2D, BatchNormalization
 from tensorflow.keras.layers import MaxPooling2D, AveragePooling2D
 from tensorflow.keras.layers import Input, Flatten, Dropout
