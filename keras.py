@@ -1,4 +1,5 @@
 from keras.datasets import mnist
+import random
 dataset = mnist.load_data('mymnist.db')
 train , test = dataset
 X_train , y_train = train
